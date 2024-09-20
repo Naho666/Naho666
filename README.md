@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Naho! 
 
-![Anonymous](https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Naho!;💻+Versatile+coder+specializing+in;Python;+Java;+JavaScript;+Go;+HTML;👾+Passionate+about+Bug+Bounty+Hunting;Discovering+vulnerabilities+and+creating+tools;Visit+my+website+for+more!)](https://nahosite.neocities.org/)
+
+<p align="center">
+  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" alt="Anonymous" width="600"/>
+</p>
 
 ---
 
