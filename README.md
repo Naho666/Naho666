@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Naho! 
 
-<!--
-**Naho666/Naho666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anonymous](https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+💻 **Versatile coder** specializing in:
+
+- **Python** 🐍
+- **Java** ☕
+- **JavaScript** ✨
+- **Go** 🚀
+- **HTML** 🌐
+
+👾 I'm passionate about **Bug Bounty Hunting**, **discovering vulnerabilities**, and **creating tools** that aim to enhance security and functionality.
+
+### 🎯 My Skills:
+- **Tool development** for security testing, vulnerability scanning, and path enumeration.
+- **Scripting expert** for automating tasks and improving security processes.
+- **Bug hunter** 🐞 in systems, web platforms, and applications.
+
+---
+
+### 🌐 **Visit my website**:
+[https://nahosite.neocities.org/](https://nahosite.neocities.org/)
+
+---
+
+### 🚀 **What I do in my free time**:
+- 💡 I focus on creating automated scripts and useful tools for the community.
+- 📖 Constantly learning new technologies and security methodologies.
+- 🎮 Fan of strategy games and hacking challenges.
+
+---
+
+⭐️ **From Naho with passion for code and security**
